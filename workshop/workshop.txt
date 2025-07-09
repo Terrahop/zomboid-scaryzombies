@@ -1,0 +1,9 @@
+version=1
+title=[B42] Scary Scary Zombies
+
+description=[h1]Scary Scary Zombies[/h1]
+description=Thinking that zombies are not scary enough?
+description=Then look no further!
+
+tags=Build 42;Textures
+visibility=public

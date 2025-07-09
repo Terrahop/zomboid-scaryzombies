@@ -1,0 +1,10 @@
+name=[B42] Scary Scary Zombies
+id=scaryscaryzombies
+author=vexiate
+description=This mod aims to make zombies more scary
+poster=poster.png
+icon=poster.png
+modversion=1.0.0
+versionMin=42.0.0
+incompatible=\afraidofmonsterszombies
+url=https://github.com/Terrahop/zomboid-scaryzombies
